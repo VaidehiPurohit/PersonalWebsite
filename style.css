@@ -113,11 +113,11 @@ li:hover{
       text-align: center; 
       gap: 2rem; 
     }
-    .proj {
+/*     .proj {
       left:45%; 
       top:28%;
       align-items: center;
-    }
+    } */
     .main {
       padding-left: 1rem; 
       text-align: center;
